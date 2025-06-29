@@ -6,15 +6,15 @@
 
 ![](001.png)![](002.png)
 
-在开始界面里找到上传模拟，选择一个模组文件（WorkshopTestContent），填写模组名称，预览图，描述之后即可上传。
+在开始界面里找到上传模拟，选择一个模组文件（WorkshopContentSample），填写模组名称，预览图，描述之后即可上传。
 
 1. 模组文件结构
 
 ![](003.png)
 
-文件结果可参考GitHub中WorkshopTestContent文件夹
+文件结果可参考GitHub中WorkshopContentSample文件夹
 
-可下载WorkshopTestContent文件夹并直接在里面修改
+可下载WorkshopContentSample文件夹并直接在里面修改
 
 在Audio文件夹里替换音乐
 
