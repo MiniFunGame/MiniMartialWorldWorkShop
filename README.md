@@ -12,7 +12,7 @@
 ## 一、上传模组
 ![](001.png)![](002.png)
 1. 在游戏**启动界面**中点击 **“上传模组”**
-2. 选择一个模组文件夹（推荐以 [WorkshopContentSample](https://github.com/MiniFunGame/MiniMartialWorldWorkShop) 为基础）
+2. 选择一个模组文件夹（推荐以 [WorkshopContentSample](https://github.com/MiniFunGame/MiniMartialWorldWorkShop) 为模板调整）
 3. 填写以下信息：
    - **模组名称**
    - **模组描述**
