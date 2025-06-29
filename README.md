@@ -89,16 +89,7 @@ WorkshopContentSample/
 
 ---
 
-## 📦 五、快速开始模板下载
-
-官方示例模组文件夹：  
-📎 [WorkshopContentSample on GitHub](https://github.com/MiniFunGame/MiniMartialWorldWorkShop)
-
-你可以 Fork 或直接下载该仓库，基于已有目录和示例快速开发自己的模组！
-
----
-
-## 🎉 六、建议与注意事项
+## 🎉 五、建议与注意事项
 
 - 预览图请勿过于清晰（建议宽度 <1024px，大小 <1MB），否则可能上传失败
 - 确保文件夹结构与示例一致，否则游戏可能无法识别内容
