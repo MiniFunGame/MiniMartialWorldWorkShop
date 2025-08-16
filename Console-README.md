@@ -66,27 +66,13 @@ exp
 money 2000
 skill 背水
 modify strength 3.5
-modify attack 120 false
+modify attack 120 
 award 金剑
 award 金剑 2
 event GoldenTower_Teaching
 ```
 
 ## 常见问题（FAQ）
-- **按 ↑/↓ 没反应？** 确认输入框处于 `isFocused` 状态（被选中）。`ToggleInputFieldVisibility()` 后会自动 `ActivateInputField()`；若用自定义 UI，确保 `EventSystem.current.SetSelectedGameObject` 指向输入框。
 - **小数解析失败？** 仅支持 `.` 作为小数点（如 `1.25`），不要用中文逗号或中文句点。
-- **找不到属性方法？** 控制台会打印 `找不到对应的属性修改方法`。检查 `AttributeManager` 是否存在 `Modify{属性}`，以及 `<属性>` 是否能被 `Capitalize` 成正确后缀（如 `speed` ➜ `Speed`）。
 - **找不到事件？** 请确认事件类名与代码中的**类型名**一致（例如类名 `GoldenTower_Teaching`，命令也应如此）。
 
-## 扩展指令（给程序员）
-新增一个命令的最简方式：
-```csharp
-switch (commandType.ToLower())
-{
-    case "teleport":
-        // 参数解析
-        // 执行动作
-        break;
-}
-```
-或在现有 `modify` 体系下，新增一个 `AttributeManager.ModifyXxx` 方法即可被自动支持。
