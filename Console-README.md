@@ -3,7 +3,6 @@
 ## 打开与收起
 - **Tab**：显示/隐藏输入框（`CommandController.ToggleInputFieldVisibility`）。
 - **Enter**：提交命令。  
-  - 若希望提交后**不收起输入框**：删除 `SubmitCommand()` 里的 `ToggleInputFieldVisibility();`。
 
 > 输入框已设置为**单行**（`InputField.LineType.SingleLine`），避免上下键被当作换行。
 
