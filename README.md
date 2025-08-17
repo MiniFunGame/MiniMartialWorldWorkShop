@@ -1,4 +1,4 @@
-
+ 
  ﻿
 # 🥋 小小侠客模拟器 创意工坊指南
 
@@ -6,7 +6,7 @@
 在这里，你可以亲手打造属于自己的武侠世界，无论是更换立绘、修改技能图标，还是替换音乐，皆可通过模组轻松实现。
 
 请参考以下指南，开启你的江湖创作之旅 
-
+人物设计教程[url]https://github.com/MiniFunGame/MiniMartialWorld-CustomCharacters/tree/main[/url]
 ---
 
 ## 一、上传模组
@@ -100,3 +100,4 @@ WorkshopContentSample/
 如有更多问题或建议，欢迎在 Steam 创意工坊评论区或 GitHub 留言，我们会持续改进！
 
 —— 小小侠客模拟器开发组 敬上
+
