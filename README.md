@@ -38,13 +38,13 @@ WorkshopContentSample/
 │   ├── Start/     （开始界面音乐）
 │   ├── Main/      （主界面音乐）
 │   └── Battle/    （战斗音乐）
-└── Texture/
-    ├── Character/ （角色立绘）
-    ├── Skill/     （技能图标）
-    ├── Effect/    （效果图标）
-    ├── Item/      （宝物图标）
-    └── Event/     （事件图标和背景）
-
+├── Texture/
+│   ├── Character/ （角色立绘）
+│   ├── Skill/     （技能图标）
+│   ├── Effect/    （效果图标）
+│   ├── Item/      （宝物图标）
+│   └── Event/     （事件图标和背景）
+└── XXX.DLL(编译后的DLL)
 ```
 
 ---
@@ -103,6 +103,7 @@ WorkshopContentSample/
 如有更多问题或建议，欢迎在 Steam 创意工坊评论区或 GitHub 留言，我们会持续改进！
 
 —— 小小侠客模拟器开发组 敬上
+
 
 
 
