@@ -8,7 +8,8 @@
 请参考以下指南，开启你的江湖创作之旅 
 
 [人物设计教程](https://github.com/MiniFunGame/MiniMartialWorld-CustomCharacters/tree/main)
-
+[计略设计教程](https://github.com/MiniFunGame/MiniMartialWorld-CustomStrategy)
+ 
 ---
 
 ## 一、上传模组
@@ -102,6 +103,7 @@ WorkshopContentSample/
 如有更多问题或建议，欢迎在 Steam 创意工坊评论区或 GitHub 留言，我们会持续改进！
 
 —— 小小侠客模拟器开发组 敬上
+
 
 
 
